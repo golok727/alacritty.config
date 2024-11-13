@@ -15,8 +15,8 @@ family = "Agave Nerd Font"
 style = "Bold"
 
 [window.dimensions]
-columns = 100
-lines = 30
+columns = 120
+lines = 25
 
 [window]
 padding.x = 0 
