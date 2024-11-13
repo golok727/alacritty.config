@@ -1,0 +1,11 @@
+[general]
+import = [
+  "./common.toml"
+]
+
+[terminal]
+
+[terminal.shell]
+program = 'pwsh.exe'
+args = ["-WorkingDirectory ~"]
+

@@ -1,0 +1,24 @@
+[font]
+size = 14.0
+offset.y = 10
+
+[font.normal]
+family = "Agave Nerd Font"
+style = "Regular"
+
+[font.italic]
+family = "Agave Nerd Font"
+style = "Italic"
+
+[font.bold]
+family = "Agave Nerd Font"
+style = "Bold"
+
+[window.dimensions]
+columns = 100
+lines = 30
+
+[window]
+padding.x = 0 
+padding.y = 0 
+dynamic_padding = false
