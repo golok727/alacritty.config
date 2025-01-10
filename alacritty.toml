@@ -1,15 +1,6 @@
 [general]
 import = ["./common.toml"]
 
-
-[terminal]
-
-
 [terminal.shell]
 program = 'pwsh.exe'
 args = ["-WorkingDirectory ~"]
-
-[[keyboard.bindings]]
-key = "Space"
-mods = "Control"
-chars = "\u0000"

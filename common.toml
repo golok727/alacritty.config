@@ -18,9 +18,14 @@ style = "Bold"
 columns = 120
 lines = 25
 
-
 [window]
-opacity = 0.99
+opacity = 0.97
 padding.x = 0
 padding.y = 0
 dynamic_padding = false
+
+
+[[keyboard.bindings]]
+key = "Space"
+mods = "Control"
+chars = "\u0000"
