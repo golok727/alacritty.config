@@ -18,7 +18,9 @@ style = "Bold"
 columns = 120
 lines = 25
 
+
 [window]
-padding.x = 0 
-padding.y = 0 
+opacity = 0.99
+padding.x = 0
+padding.y = 0
 dynamic_padding = false
